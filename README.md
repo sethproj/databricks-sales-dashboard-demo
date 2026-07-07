@@ -4,7 +4,7 @@ Interactive business intelligence dashboard built using Databricks SQL and the D
 
 ## Dashboard Preview
 
-<img src="images/dashboard-overview.png">
+<img width="1454" height="1256" alt="image" src="https://github.com/user-attachments/assets/0292e069-7e18-4b19-b239-1df55b2d4c18" />
 
 ## Features
 
